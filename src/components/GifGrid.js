@@ -13,7 +13,7 @@ export const GifGrid = ({category}) => {
     //     getGifs(category).then( setImages)
     // }, [category] )
 
-    
+
 
 
     return (
